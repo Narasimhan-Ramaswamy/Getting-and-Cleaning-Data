@@ -4,8 +4,8 @@ This code book summarizes the fields in tidyData.txt.
 
 ## Identifiers
     
-    `Subject`  : Test Subject ID
-    `Activity` : Type of activity performed by Subject 
+    Subject  : Test Subject ID
+    Activity : Type of activity performed by Subject 
 
 
 ## Measurements
@@ -94,4 +94,4 @@ The following fields were summarised over Subject and Activity: (Further details
 
 ## Other Field
 
-    `Activity_Name` : Activity detail corresponding to `Activity`
+    Activity_Name : Activity detail corresponding to Activity
