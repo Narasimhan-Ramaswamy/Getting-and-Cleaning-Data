@@ -2,13 +2,13 @@
 
 This code book summarizes the fields in tidyData.txt.
 
-# Identifiers
+## Identifiers
     
     `Subject`  : Test Subject ID
     `Activity` : Type of activity performed by Subject 
 
 
-# Measurements
+## Measurements
 
 The following fields were summarised over Subject and Activity: (Further details provided in feature_info.txt)
     
@@ -92,6 +92,6 @@ The following fields were summarised over Subject and Activity: (Further details
     fBodyBodyGyroJerkMag_std
     fBodyBodyGyroJerkMag_meanFreq
 
-# Other Field
+## Other Field
 
     `Activity_Name` : Activity detail corresponding to `Activity`
